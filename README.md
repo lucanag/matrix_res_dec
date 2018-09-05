@@ -1,4 +1,4 @@
-# matrix_res_dec
+# matrix_rsrc_dec
 
 Decodes the Matrix Ransomware resource section.
-Usage: matrix_res_dec.py [file_name] [resource_name]
+Usage: matrix_rsrc_dec.py [file_name] [resource_name]
